@@ -7,5 +7,6 @@ dog store app using:
 
 db name : ch_db
 
-app login : user
-app password : 1111
+Login : user
+
+Password : 1111
